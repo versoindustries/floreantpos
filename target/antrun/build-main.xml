@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <zip basedir="C:\Users\zimme\git\floreantpos\target/floreantpos-bin/floreantpos" destfile="C:\Users\zimme\git\floreantpos\target/floreantpos-1.4-build-${timestamp}.zip"></zip>
+</target>
+</project>
